@@ -38,11 +38,11 @@ $( document ).ready(function() {
 
 var stopwatch = {
 
-		time: 10,
+		time: 30,
 
 		reset: function () {
 
-			stopwatch.time=10;
+			stopwatch.time=30;
 		},
 
 		start: function () {
